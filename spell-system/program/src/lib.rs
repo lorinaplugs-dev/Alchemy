@@ -480,7 +480,7 @@ pub struct UserState {
     pub legendary_books: u64,
     pub multiplier: f64,
     pub buff_expiry: i64,
-    pub active_tier: u8,
+    pub active_tier: 20px 
     pub bump: u8,
 }
 
